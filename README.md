@@ -1,4 +1,4 @@
-# domain_bot
+# dropcatch
 
 I created a small collection of dropcatch bots, these are nice for dropcatching deleted domains (Works well with less contested domains 
 that are not targeted by dropcatch.com and their 1000+ registrars)
